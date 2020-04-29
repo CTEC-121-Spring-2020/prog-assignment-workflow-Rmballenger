@@ -13,9 +13,12 @@ Output: return value and description
 
 
 def main():
+    print()
     print("Hello World! It's one of my favorite things to see accidentally uploaded to high class websites and such.")
+    print()
     print("Jedi Python language. Reason for the jedi part?")
+    print()
     print("Here is a third statment, is this a cop out of an answer?  Could be, but I'm not very good at ASCII so.... You getrambling text!")
-
+    print()
 
 main()
